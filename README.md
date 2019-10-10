@@ -4,3 +4,5 @@
 
 ### gnb = GaussianNB()
 ### gnb.fit(X,Y)
+
+### Calculating the accuracy using gnb.score(X,Y) method which comes out to be 0.915
